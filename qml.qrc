@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pages/Page1.qml</file>
+	<file>pages/Page2.qml</file>
+	<file>pages/Page3.qml</file>
+	<file>images/drawer.png</file>
+	<file>images/menu.png</file>
+	<file>main.py</file>
+	<file>js/ice.js</file>
+    </qresource>
+</RCC>
